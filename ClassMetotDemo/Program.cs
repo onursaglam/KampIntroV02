@@ -12,6 +12,7 @@ namespace ClassMetotDemo
             musteri1.musteriAdi = "Onur";
             musteri1.musteriSoyadi = "Sağlam";
 
+            //mehmet özkaya                                                                                                                                                                                                                                                        
             Musteri musteri2 = new Musteri();
             musteri2.musteriId = 002;
             musteri2.musteriTc = 545123546;
@@ -30,8 +31,6 @@ namespace ClassMetotDemo
             manager.Listele(musteriler);
             manager.Ekle();
             manager.Delete(musteri2);
-            //manager.Ekle(4,484848484,"Tolga","Akkuş");
-            //manager.Sil(musteri2);
         }
     }
 }
