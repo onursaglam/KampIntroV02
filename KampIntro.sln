@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMeto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{365180DF-B5FB-4F18-9102-17A8A59073D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{5D35FE93-5F60-41BA-9AA6-CAD7B38EAB62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{5D35FE93-5F60-41BA-9AA6-CAD7B38EAB62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{A043F3BD-C317-4B88-B831-B1C4627056B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{A043F3BD-C317-4B88-B831-B1C4627056B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{88ED2A08-56E1-4B47-BDA3-3EAA1551C9BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{A043F3BD-C317-4B88-B831-B1C4627056B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A043F3BD-C317-4B88-B831-B1C4627056B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A043F3BD-C317-4B88-B831-B1C4627056B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88ED2A08-56E1-4B47-BDA3-3EAA1551C9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88ED2A08-56E1-4B47-BDA3-3EAA1551C9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88ED2A08-56E1-4B47-BDA3-3EAA1551C9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88ED2A08-56E1-4B47-BDA3-3EAA1551C9BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
